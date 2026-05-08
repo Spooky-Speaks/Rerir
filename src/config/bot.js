@@ -30,6 +30,13 @@ export const botConfig = {
         type: 4, 
       },
     ],
+      {
+        // Text users will see (example: "Playing /help | Titan Bot").
+        name: "Blasphemy Against Death",
+        // Activity type number (0 = Playing).
+        type: 2, 
+      },
+    ],
   },
 
   // =========================
